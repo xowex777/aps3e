@@ -1,4 +1,4 @@
-package aenu.aps3e;
+mainpackage aenu.aps3e;
 
 import android.content.Context;
 
